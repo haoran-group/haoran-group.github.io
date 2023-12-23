@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
+title: Publication list
 ---
-
-## Publication list 
 
 (*corresponding authors; #equal contribution)
 
