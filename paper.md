@@ -5,6 +5,7 @@ title: Publication list
 
 (*corresponding authors; #equal contribution)
 
+
 #### 2023
 
 44\. Yong Ge, Binjie Shi, Ding Jia, Hong-xiang Sun*, Haoran Xue*, Shou-qi Yuan*, and Baile Zhang*. Tunable bifunctional acoustic logic gates based on topological valley transport. [*Appl. Phys. Lett.* 123, 171703 (2023)](https://doi.org/10.1063/5.0172277).
