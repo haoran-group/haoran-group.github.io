@@ -71,3 +71,21 @@ title: Publication list
 16\.	Haoran Xue\*, Yihao Yang\*, and Baile Zhang\*. Topological valley photonics: physics and device applications. [*Adv. Photon. Research* 2, 2100013 (2021)](https://doi.org/10.1002/adpr.202100013).
 
 15\.	Yuhan Zhong, Xiao Lin\*, Jing Jiang, Yi Yang, Gui-Geng Liu, Haoran Xue, Tony Low\*, Hongsheng Chen\*, and Baile Zhang\*. Toggling near-field directionality via polarization control of surface waves. [*Laser Photon. Rev.* 15, 2000388 (2021)](https://doi.org/10.1002/lpor.202000388).
+
+#### 2021
+
+14\.	Peiheng Zhou, Gui-Geng Liu\*, Yihao Yang, Yuan-Hang Hu, Sulin Ma, Haoran Xue, Qiang Wang, Longjiang Deng\*, and Baile Zhang\*. Observation of photonic antichiral edge states. [*Phys. Rev. Lett.* 125, 263603 (2020)](https://doi.org/10.1103/PhysRevLett.125.263603).
+
+13\.	He Gao, Haoran Xue\*, Qiang Wang, Zhongming Gu, Tuo Liu, Jie Zhu\*, and Baile Zhang\*. Observation of topological edge states induced solely by non-Hermiticity in an acoustic crystal. [*Phys. Rev. B* 101, 180303(R) (2020)](https://doi.org/10.1103/PhysRevB.101.180303).
+
+12\.	Gui-Geng Liu, Yihao Yang\*, Xin Ren, Haoran Xue, Xiao Lin, Yuan-Hang Hu, Hong-xiang Sun, Bo Peng, Peiheng Zhou\*, Yidong Chong\*, and Baile Zhang\*. Topological Anderson insulator in disordered photonic crystals. [*Phys. Rev. Lett.* 125, 133603 (2020)](https://doi.org/10.1103/PhysRevLett.125.133603).
+
+11\.	Haoran Xue<sup>#</sup>, Yong Ge<sup>#</sup>, Hong-Xiang Sun\*, Qiang Wang, Ding Jia, Yi-Jun Guan, Shou-Qi Yuan, Yidong Chong\*, and Baile Zhang\*. Observation of an acoustic octupole topological insulator. [*Nat. Commun.* 11, 2442 (2020)](https://doi.org/10.1038/s41467-020-16350-1).
+
+10\.	Peiheng Zhou<sup>#</sup>, Gui-Geng Liu<sup>#</sup>, Xin Ren, Yihao Yang, Haoran Xue, Lei Bi, Longjiang Deng, Yidong Chong\*, and Baile Zhang\*. Photonic amorphous topological insulator. [*Light Sci. Appl.* 9, 133 (2020)](https://doi.org/10.1038/s41377-020-00368-7).
+
+9\.	Haoran Xue, Qiang Wang, Baile Zhang\*, and Yidong Chong\*. Non-Hermitian Dirac cones. [*Phys. Rev. Lett.* 124, 236403 (2020)](https://doi.org/10.1103/PhysRevLett.124.236403).
+
+8\.	Qiang Wang, Haoran Xue, Baile Zhang\*, and Yidong Chong\*. Observation of protected photonic edge states induced by real-space topological lattice defects. [*Phys. Rev. Lett.* 124, 243602 (2020)](https://doi.org/10.1103/PhysRevLett.124.243602).
+
+7\.	Gui-Geng Liu<sup>#</sup>, Peiheng Zhou<sup>#</sup>, Yihao Yang\*, Haoran Xue, Xin Ren, Xiao Lin, Hong-xiang Sun, Lei Bi, Yidong Chong\*, and Baile Zhang\*. Observation of an unpaired photonic Dirac point. [*Nat. Commun.* 11, 1873 (2020)](https://doi.org/10.1038/s41467-020-15801-z).
