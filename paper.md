@@ -72,7 +72,7 @@ title: Publication list
 
 15\.	Yuhan Zhong, Xiao Lin\*, Jing Jiang, Yi Yang, Gui-Geng Liu, Haoran Xue, Tony Low\*, Hongsheng Chen\*, and Baile Zhang\*. Toggling near-field directionality via polarization control of surface waves. [*Laser Photon. Rev.* 15, 2000388 (2021)](https://doi.org/10.1002/lpor.202000388).
 
-#### 2021
+#### 2020
 
 14\.	Peiheng Zhou, Gui-Geng Liu\*, Yihao Yang, Yuan-Hang Hu, Sulin Ma, Haoran Xue, Qiang Wang, Longjiang Deng\*, and Baile Zhang\*. Observation of photonic antichiral edge states. [*Phys. Rev. Lett.* 125, 263603 (2020)](https://doi.org/10.1103/PhysRevLett.125.263603).
 
@@ -89,3 +89,21 @@ title: Publication list
 8\.	Qiang Wang, Haoran Xue, Baile Zhang\*, and Yidong Chong\*. Observation of protected photonic edge states induced by real-space topological lattice defects. [*Phys. Rev. Lett.* 124, 243602 (2020)](https://doi.org/10.1103/PhysRevLett.124.243602).
 
 7\.	Gui-Geng Liu<sup>#</sup>, Peiheng Zhou<sup>#</sup>, Yihao Yang\*, Haoran Xue, Xin Ren, Xiao Lin, Hong-xiang Sun, Lei Bi, Yidong Chong\*, and Baile Zhang\*. Observation of an unpaired photonic Dirac point. [*Nat. Commun.* 11, 1873 (2020)](https://doi.org/10.1038/s41467-020-15801-z).
+
+#### 2019
+
+6\.	Haoran Xue, Yahui Yang, Guigeng Liu, Fei Gao, Yidong Chong\*, and Baile Zhang\*. Realization of an acoustic third-order topological insulator. [*Phys. Rev. Lett.* 122, 244301 (2019)](https://doi.org/10.1103/PhysRevLett.122.244301).
+
+5\.	Yihao Yang<sup>#</sup>, Hong-xiang Sun<sup>#</sup>, Jian-ping Xia, Haoran Xue, Zhen Gao, Yong Ge, Ding Jia, Shou-qi Yuan, Yidong Chong\*, and Baile Zhang\*. Topological triply degenerate point with double Fermi arcs. [*Nat. Phys.* 15, 645 (2019)](https://doi.org/10.1038/s41567-019-0502-z).
+
+4\.	Yihao Yang<sup>#</sup>, Zhen Gao<sup>#,</sup>\*, Haoran Xue, Li Zhang, Mengjia He, Zhaoju Yang, Ranjan Singh, Yidong Chong, Baile Zhang\*, and Hongsheng Chen\*. Realization of a three-dimensional photonic topological insulator. [*Nature* 565, 622 (2019)](https://doi.org/10.1038/s41586-018-0829-0).
+
+3\.	Haoran Xue, Yahui Yang, Fei Gao\*, Yidong Chong\*, and Baile Zhang\*. Acoustic higher-order topological insulator on a kagome lattice. [*Nat. Mater.* 18, 108 (2019)](https://doi.org/10.1038/s41563-018-0251-x).
+
+#### 2018
+
+2\.	Fei Gao<sup>#</sup>, Haoran Xue<sup>#</sup>, Zhaoju Yang\*, Kueifu Lai, Yang Yu, Xiao Lin, Yidong Chong, Gennady Shvets\*, and Baile Zhang\*. Topologically protected refraction of robust kink states in valley photonic crystals. [*Nat. Phys.* 14, 140 (2018)](https://doi.org/10.1038/nphys4304).
+
+#### 2017
+
+1\.	Zhen Gao, Zhaoju Yang\*, Fei Gao, Haoran Xue, Yahui Yang, Jianwen Dong\*, and Baile Zhang\*. Valley surface-wave photonic crystal and its bulk/edge transport. [*Phys. Rev. B* 96, 201402(R) (2017)](https://doi.org/10.1103/PhysRevB.96.201402).
