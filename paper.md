@@ -53,3 +53,21 @@ title: Publication list
 24\.	Haoran Xue<sup>#</sup>, Zihao Wang<sup>#</sup>, Yue-Xin Huang, Zheyu Cheng, Letian Yu, Y.X. Foo, Y.X. Zhao\*, Shengyuan A Yang\*, and Baile Zhang\*. Projectively enriched symmetry and topology in acoustic crystals. [*Phys. Rev. Lett.* 128, 116802 (2022)](https://doi.org/10.1103/PhysRevLett.128.116802).
 
 23\.	Weiwei Zhu<sup>#</sup>, Haoran Xue<sup>#</sup>, Jiangbin Gong\*, Yidong Chong\*, and Baile Zhang\*. Time-periodic corner states from Floquet higher-order topology. [*Nat. Commun.* 13, 11 (2022)](https://doi.org/10.1038/s41467-021-27552-6).
+
+#### 2021
+
+22\.	Letian Yu, Haoran Xue\*, and Baile Zhang\*. Antichiral edge states in an acoustic resonator lattice with staggered air flow. [*J. Appl. Phys.* 129, 235103 (2021)](https://doi.org/10.1063/5.0050645).
+
+21\.	Haoran Xue<sup>#</sup>, Ding Jia<sup>#</sup>, Yong Ge, Yi-jun Guan, Qiang Wang, Shou-qi Yuan, Hong-xiang Sun\*, Yidong Chong\*, and Baile Zhang\*. Observation of dislocation-induced topological modes in a three-dimensional acoustic topological insulator. [*Phys. Rev. Lett.* 127, 214301 (2021)](https://doi.org/10.1103/PhysRevLett.127.214301).
+
+20\.	Qiang Wang<sup>#</sup>, Yong Ge<sup>#</sup>, Hong-xiang Sun, Haoran Xue, Ding Jia, Yi-jun Guan, Shou-qi Yuan\*, Baile Zhang\*, and Yidong Chong\*. Vortex states in an acoustic Weyl crystal with a topological lattice defect. [*Nat. Commun.* 12, 3654 (2021)](https://doi.org/10.1038/s41467-021-23963-7).
+
+19\.	Letian Yu, Haoran Xue\*, and Baile Zhang\*. Topological slow light via coupling chiral edge modes with flatbands. [*Appl. Phys. Lett.* 118, 071102 (2021)](https://doi.org/10.1063/5.0039839).
+
+18\.	He Gao, Haoran Xue\*, Zhongming Gu, Tuo Liu, Jie Zhu\*, and Baile Zhang\*. Non-Hermitian route to higher-order topology in an acoustic crystal. [*Nat. Commun.* 12, 1888 (2021)](https://doi.org/10.1038/s41467-021-22223-y).
+
+17\.	Ding Jia, Yong Ge, Haoran Xue, Shou-qi Yuan, Hong-xiang Sun\*, Yihao Yang\*, Xiao-jun Liu, and Baile Zhang\*. Topological refraction in dual-band valley sonic crystals. [*Phys. Rev. B* 103, 144309 (2021)](https://doi.org/10.1103/PhysRevB.103.144309).
+
+16\.	Haoran Xue\*, Yihao Yang\*, and Baile Zhang\*. Topological valley photonics: physics and device applications. [*Adv. Photon. Research* 2, 2100013 (2021)](https://doi.org/10.1002/adpr.202100013).
+
+15\.	Yuhan Zhong, Xiao Lin\*, Jing Jiang, Yi Yang, Gui-Geng Liu, Haoran Xue, Tony Low\*, Hongsheng Chen\*, and Baile Zhang\*. Toggling near-field directionality via polarization control of surface waves. [*Laser Photon. Rev.* 15, 2000388 (2021)](https://doi.org/10.1002/lpor.202000388).
