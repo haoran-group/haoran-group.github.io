@@ -29,3 +29,27 @@ title: Publication list
 35\.	Qiang Wang, Changyan Zhu, Xu Zheng, Haoran Xue, Baile Zhang\*, and Yidong Chong\*. Continuum of bound states in a non-Hermitian Model. [*Phys. Rev. Lett.* 130, 103602 (2023)](https://doi.org/10.1103/PhysRevLett.130.103602).
 
 34\.	Xinrong Xie, Maoliang Wei, Yumeng Yang, Yuanzhen Li, Kunhao Lei, Zijian Zhang, Chi Wang, Chuyu Zhong, Lan Li, Zuojia Wang, Wei EI Sha, Erping Li, Haoran Xue, Zhaoju Yang, Luqi Yuan, Hongsheng Chen\*, Hongtao Lin\*, and Fei Gao\*. Harnessing anti‐parity‐time phase transition in coupled topological photonic valley waveguides. [*Adv. Func. Mater.* 33, 2302197 (2023)](https://doi.org/10.1002/adfm.202302197).
+
+#### 2022
+
+33\.	Zhongming Gu, He Gao\*, Haoran Xue\*, Jensen Li, Zhongqing Su, and Jie Zhu\*. Transient non-Hermitian skin effect. [*Nat. Commun.* 13, 7668 (2022)](https://doi.org/10.1038/s41467-022-35448-2).
+
+32\.	Zheyu Cheng<sup>#</sup>, Raditya Weda Bomantara<sup>#</sup>, Haoran Xue, Weiwei Zhu, Jiangbin Gong\*, and Baile Zhang\*. Observation of π/2 modes in an acoustic Floquet system. [*Phys. Rev. Lett.* 129, 013903 (2022)](https://doi.org/10.1103/PhysRevLett.129.254301).
+
+31\.	Haoran Xue\*, Yihao Yang\*, and Baile Zhang\*. Topological acoustics. [*Nat. Rev. Mater.* 7, 974 (2022)](https://doi.org/10.1038/s41578-022-00465-6).
+
+30\.	Hau Tian Teo, Haoran Xue\*, and Baile Zhang\*. Topological phase transition induced by gain and loss in a photonic Chern insulator. [*Phys. Rev. A* 105, 053510 (2022)](https://doi.org/10.1103/PhysRevA.105.053510).
+
+29\.	Hao Hu, Song Han, Yihao Yang\*, Dongjue Liu, Haoran Xue, Gui‐Geng Liu, Zheyu Cheng, Qi Jie Wang, Shuang Zhang, Baile Zhang\*, and Yu Luo\*. Observation of topological edge states in thermal diffusion. [*Adv. Mater.* 34, 2202257 (2022)](https://doi.org/10.1002/adma.202202257).
+
+28\.	He Gao<sup>#</sup>, Haoran Xue<sup>#,</sup>\*, Zhongming Gu, Linhu Li, Weiwei Zhu, Zhongqing Su, Jie Zhu\*, Baile Zhang\*, and Yidong Chong\*. Anomalous Floquet non-Hermitian skin effect in a ring resonator lattice. [*Phys. Rev. B* 106, 134112 (2022)](https://doi.org/10.1103/PhysRevB.106.134112).
+
+27\.	Yang Long, Haoran Xue, and Baile Zhang\*. Non-Hermitian topological systems with eigenvalues that are always real. [*Phys. Rev. B.* 105, L100102 (2022)](https://doi.org/10.1103/PhysRevB.105.L100102).
+
+26\.	Zihao Wang<sup>#</sup>, Dongjue Liu<sup>#</sup>, Hau Tian Teo, Qiang Wang, Haoran Xue\*, and Baile Zhang\*. Higher-order Dirac semimetal in a photonic crystal. [*Phys. Rev. B* 105, L060101 (2022)](https://doi.org/10.1103/PhysRevB.105.L060101).
+
+25\.	Bofeng Zhu, Qiang Wang, Daniel Leykam, Haoran Xue, Qi Jie Wang\*, and Yidong Chong\*. Anomalous single-mode lasing induced by nonlinearity and the non-Hermitian skin effect. [*Phys. Rev. Lett.* 129, 013903 (2022)](https://doi.org/10.1103/PhysRevLett.129.013903).
+
+24\.	Haoran Xue<sup>#</sup>, Zihao Wang<sup>#</sup>, Yue-Xin Huang, Zheyu Cheng, Letian Yu, Y.X. Foo, Y.X. Zhao\*, Shengyuan A Yang\*, and Baile Zhang\*. Projectively enriched symmetry and topology in acoustic crystals. [*Phys. Rev. Lett.* 128, 116802 (2022)](https://doi.org/10.1103/PhysRevLett.128.116802).
+
+23\.	Weiwei Zhu<sup>#</sup>, Haoran Xue<sup>#</sup>, Jiangbin Gong\*, Yidong Chong\*, and Baile Zhang\*. Time-periodic corner states from Floquet higher-order topology. [*Nat. Commun.* 13, 11 (2022)](https://doi.org/10.1038/s41467-021-27552-6).
