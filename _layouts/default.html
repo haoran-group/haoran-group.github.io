@@ -32,6 +32,16 @@
   {% include menu.html menu=pages %}
 </header>
 
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0NNTE9PJBR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0NNTE9PJBR');
+</script>
+  
 {{ content }}
 
 {% if site.external %}
