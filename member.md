@@ -1,4 +1,4 @@
----
+![eaa041d050e45d9f01610a47d087861](https://github.com/user-attachments/assets/5a7744ad-881a-4cb8-ae09-b02c6e9833dc)---
 layout: page
 title: Group members
 ---
@@ -30,10 +30,9 @@ title: Group members
 
 ### PhD students
 
-|<img src="https://github.com/user-attachments/assets/26473b5e-7eb9-4c65-aa0d-f3db51955640"  width="150" height="200">|<img src="[https://github.com/user-attachments/assets/26473b5e-7eb9-4c65-aa0d-f3db51955640](https://github.com/user-attachments/assets/66d481b1-aa63-448f-b5e4-7e54164c7dad)"  width="150" height="200">|
+|<img src="https://github.com/user-attachments/assets/26473b5e-7eb9-4c65-aa0d-f3db51955640"  width="150" height="200">|<img src="https://github.com/user-attachments/assets/8f7d197d-93b7-4cf9-af18-a75cb5695c25"  width="150" height="200">|
 |:--:|:--:| 
-|Xie Wentao Sun Yat-sen University|Wang Bingbing|
-
+|Xie Wentao<br>Sun Yat-sen University|Wang Bingbing|
 
 
 
