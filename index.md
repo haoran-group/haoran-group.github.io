@@ -14,6 +14,10 @@ Phone: (852) 3943 4388
 
 Office: Room 206, 2/F, Science Centre North Block, Shatin, The Chinese University of Hong Kong, Hong Kong, China
 
+### Open positions
+
+Multiple PhD and postdoc positions are availble. Candidates with background on topological photonics/acoustics, non-Hermitian physics and machine learning are welcome to apply.
+
 ### Links
 [<img src="https://github.com/user-attachments/assets/8c010d10-9c2a-4b45-8fff-38440613f48c" width="80">](https://newww.phy.cuhk.edu.hk/teaching_staff/xue-haoran)
 &emsp;
