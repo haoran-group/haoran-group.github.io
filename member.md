@@ -29,7 +29,7 @@ title: Group members
 
 ### PhD students
 
-|<img src="https://github.com/user-attachments/assets/26473b5e-7eb9-4c65-aa0d-f3db51955640" width="150" height="200">|<img scr="https://github.com/user-attachments/assets/8f7d197d-93b7-4cf9-af18-a75cb5695c25" width="150" height="200">|
+|<img src="https://github.com/user-attachments/assets/26473b5e-7eb9-4c65-aa0d-f3db51955640" width="150" height="200">|<img scr="https://github.com/user-attachments/assets/26473b5e-7eb9-4c65-aa0d-f3db51955640" width="150" height="200">|
 |:--:|:--:|
 |Xie Wentao<br>Sun Yat-sen University|Wang Bingbing|
 
