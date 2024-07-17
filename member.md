@@ -31,7 +31,7 @@ title: Group members
 
 |<img src="https://github.com/user-attachments/assets/6c94f101-b3ad-4f2b-a7cf-bacb10d9106a"  width="150" height="200">|<img src="https://github.com/user-attachments/assets/586326eb-c679-438d-8941-4b845e796373"  width="150" height="200">|
 |:-:|:-:|
-|Xie Wentao|Wang Bingbing|
+|Xie Wentao <br> BSc: Sun Yat-sen Univ.|Wang Bingbing|
 
 
 
