@@ -7,6 +7,8 @@ title: Publication list
 
 #### 2024
 
+48\. Hau Tian Teo, Subhaskar Mandal, Yang Long, Haoran Xue\*, and Baile Zhang\*. Pseudomagnetic suppression of non-Hermitian skin effect. [*Sci. Bull.* 69, 1667 (2024)](https://doi.org/10.1016/j.scib.2024.04.023).
+
 47\. Fujia Chen<sup>#</sup>, Haoran Xue<sup>#</sup>, Yuang Pan, Maoren Wang, Yuanhang Hu, Li Zhang, Qiaolu Chen, Song Han, Gui-geng Liu, Zhen Gao, Peiheng Zhou\*, Wenyan Yin\*, Hongsheng Chen\*, Baile Zhang\*, and Yihao Yang\*. Multiple Brillouin zone winding of topological chiral edge states for slow light applications. [*Phys. Rev. Lett.* 132, 156602 (2024)](https://doi.org/10.1103/PhysRevLett.132.156602).
 
 46\. Xinrong Xie, Gan Liang, Fei Ma, Yulin Du, Yiwei Peng, Erping Li, Hongsheng Chen, Linhu Li\*, Fei Gao\*, and Haoran Xue\*. Observation of scale-free localized states induced by non-Hermitian defects. [*Phys. Rev. B* 109, L140102 (2024)](https://doi.org/10.1103/PhysRevB.109.L140102).
