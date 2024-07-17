@@ -29,7 +29,7 @@ title: Group members
 
 ### PhD students
 
-|![](https://github.com/user-attachments/assets/26473b5e-7eb9-4c65-aa0d-f3db51955640){: width="150" height="200"}|![](https://github.com/user-attachments/assets/26473b5e-7eb9-4c65-aa0d-f3db51955640){: width="150" height="200"}|
+|<img src="https://github.com/user-attachments/assets/50ac0715-d213-4428-8651-59aa2bce4362"  width="150" height="200">|<img src="https://github.com/user-attachments/assets/50ac0715-d213-4428-8651-59aa2bce4362"  width="150" height="200">|
 |:-:|:-:|
 |text-1|text-2|
 
