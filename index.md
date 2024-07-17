@@ -14,7 +14,7 @@ Office: Room 206, 2/F, Science Centre North Block, Shatin, The Chinese Universit
 
 ### Links
 
-[<img src="https://github.com/user-attachments/assets/09fc65c0-d8ad-4fbb-bbf0-d4a362f237b9" width="50">](https://scholar.google.com/citations?user=NyAyLpIAAAAJ&hl=en)
+[<img src="https://github.com/user-attachments/assets/09fc65c0-d8ad-4fbb-bbf0-d4a362f237b9" width="100">](https://scholar.google.com/citations?user=NyAyLpIAAAAJ&hl=en)
 
 
 
