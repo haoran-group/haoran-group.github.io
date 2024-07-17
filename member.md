@@ -28,6 +28,12 @@ title: Group members
 |:--:| 
 |Shen Ruichang|
 
+### PhD students
+
+|<img src="https://github.com/user-attachments/assets/26473b5e-7eb9-4c65-aa0d-f3db51955640"  width="200" height="200">|
+|:--:| 
+|Xie Wentao|
+
 
 
 
