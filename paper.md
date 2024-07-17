@@ -7,6 +7,8 @@ title: Publication list
 
 #### 2024
 
+53\. Yang Long\*, Haoran Xue, and Baile Zhang\*. Unsupervised learning of topological non-Abelian braiding in non-Hermitian bands. [*Nat. Mach. Intell.* (2024)](https://doi.org/10.1038/s42256-024-00871-1).
+
 52\. Letian Yu<sup>#</sup>, Haoran Xue<sup>#</sup>, Ruixiang Guo, Eng Aik Chan, Yun Yong Terh, Cesare Soci\*, Baile Zhang\*, and Y. D. Chong\*. Dirac mass induced by optical gain and loss. [*Nature* (2024)](https://doi.org/10.1038/s41586-024-07664-x).
 
 51\. Yang Long<sup>#</sup>, Zihao Wang<sup>#</sup>, Chen Zhang, Haoran Xue, Y. X. Zhao\*, and Baile Zhang\*. Non-Abelian braiding of topological edge bands. [*Phys. Rev. Lett.* 132, 236401 (2024)](https://doi.org/10.1103/PhysRevLett.132.236401).
