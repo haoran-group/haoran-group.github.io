@@ -7,6 +7,8 @@ title: Publication list
 
 #### 2024
 
+50\. Wentao Xie, Qiang Wang\*, and Haoran Xue\*. Topological disclination mode in photonic Chern insulators. [*Opt. Mater. Express* 14, 1572 (2024)](https://doi.org/10.1364/OME.525214).
+
 49\. Yin Wang, Yong Ge, Yu-Jing Lu, Shuai Gu, Yi-Jun Guan, Qiao-Rui Si, Shou-Qi Yuan, Qiang Wang\*, Hong-Xiang Sun\*, and Haoran Xue\*. Free-form acoustic topological waveguides enabled by topological lattice defects. [*Phys. Rev. B* 109, L180101 (2024)](https://doi.org/10.1103/PhysRevB.109.L180101).
 
 48\. Hau Tian Teo, Subhaskar Mandal, Yang Long, Haoran Xue\*, and Baile Zhang\*. Pseudomagnetic suppression of non-Hermitian skin effect. [*Sci. Bull.* 69, 1667 (2024)](https://doi.org/10.1016/j.scib.2024.04.023).
