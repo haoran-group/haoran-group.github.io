@@ -7,7 +7,7 @@ title: Group members
 
 <img src="https://github.com/haoran-group/haoran-group.github.io/assets/154585121/153774ba-4a14-480b-bafd-51fc3f7a33a3"  width="200" height="200">
 
-Assistant Professor Xue Haoran
+Xue Haoran
 
 <ins>Education</ins>
 
@@ -20,3 +20,10 @@ Assistant Professor Xue Haoran
 2021-2023: Reseach Fellow, Nanyang Technological University
 
 2023-present: Assistant Professor, Chinese University of Hong Kong
+
+### Postdoctoral researchers
+
+Shen Richang
+
+
+
