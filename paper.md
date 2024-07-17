@@ -5,6 +5,9 @@ title: Publication list
 
 (*corresponding authors; #equal contribution)
 
+#### 2024
+
+45\. Zheyu Cheng<sup>#</sup>, Yi-Jun Guan<sup>#</sup>, Haoran Xue\*, Yong Ge, Ding Jia, Yang Long, Shou-Qi Yuan, Hong-Xiang Sun\*, Yidong Chong\*, and Baile Zhang\*. Three-dimensional flat Landau levels in an inhomogeneous acoustic crystal. [*Nat. Commun.* 15, 2174 (2024)](https://doi.org/10.1038/s41467-024-46517-z).
 
 #### 2023
 
