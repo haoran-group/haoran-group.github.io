@@ -17,3 +17,8 @@ Google scholar: [Xue Haoran](https://scholar.google.com/citations?user=NyAyLpIAA
 Orcid: [0000-0002-1040-1137](https://orcid.org/0000-0002-1040-1137)
 University personal page
 
+[<img src="https://github.com/user-attachments/assets/09fc65c0-d8ad-4fbb-bbf0-d4a362f237b9">](https://scholar.google.com/citations?user=NyAyLpIAAAAJ&hl=en)
+
+
+
+
