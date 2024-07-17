@@ -6,7 +6,6 @@ title: Group members
 ### Principal investigator
 
 |<img src="https://github.com/haoran-group/haoran-group.github.io/assets/154585121/153774ba-4a14-480b-bafd-51fc3f7a33a3"  width="200" height="200">|
-|:--:| 
 |Xue Haoran|
 
 
