@@ -25,5 +25,7 @@ Xue Haoran
 
 Shen Richang
 
+![fig_20240717201632](https://github.com/user-attachments/assets/50ac0715-d213-4428-8651-59aa2bce4362)
+
 
 
