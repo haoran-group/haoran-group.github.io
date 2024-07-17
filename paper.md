@@ -7,6 +7,8 @@ title: Publication list
 
 #### 2024
 
+51\. Yang Long<sup>#</sup>, Zihao Wang<sup>#</sup>, Chen Zhang, Haoran Xue, Y. X. Zhao\*, and Baile Zhang\*. Non-Abelian braiding of topological edge bands. [*Phys. Rev. Lett.* 132, 236401 (2024)](https://doi.org/10.1103/PhysRevLett.132.236401).
+
 50\. Wentao Xie, Qiang Wang\*, and Haoran Xue\*. Topological disclination mode in photonic Chern insulators. [*Opt. Mater. Express* 14, 1572 (2024)](https://doi.org/10.1364/OME.525214).
 
 49\. Yin Wang, Yong Ge, Yu-Jing Lu, Shuai Gu, Yi-Jun Guan, Qiao-Rui Si, Shou-Qi Yuan, Qiang Wang\*, Hong-Xiang Sun\*, and Haoran Xue\*. Free-form acoustic topological waveguides enabled by topological lattice defects. [*Phys. Rev. B* 109, L180101 (2024)](https://doi.org/10.1103/PhysRevB.109.L180101).
