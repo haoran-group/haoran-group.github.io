@@ -7,6 +7,8 @@ title: Publication list
 
 #### 2024
 
+49\. Yin Wang, Yong Ge, Yu-Jing Lu, Shuai Gu, Yi-Jun Guan, Qiao-Rui Si, Shou-Qi Yuan, Qiang Wang\*, Hong-Xiang Sun\*, and Haoran Xue\*. Free-form acoustic topological waveguides enabled by topological lattice defects. [*Phys. Rev. B* 109, L180101 (2024)](https://doi.org/10.1103/PhysRevB.109.L180101).
+
 48\. Hau Tian Teo, Subhaskar Mandal, Yang Long, Haoran Xue\*, and Baile Zhang\*. Pseudomagnetic suppression of non-Hermitian skin effect. [*Sci. Bull.* 69, 1667 (2024)](https://doi.org/10.1016/j.scib.2024.04.023).
 
 47\. Fujia Chen<sup>#</sup>, Haoran Xue<sup>#</sup>, Yuang Pan, Maoren Wang, Yuanhang Hu, Li Zhang, Qiaolu Chen, Song Han, Gui-geng Liu, Zhen Gao, Peiheng Zhou\*, Wenyan Yin\*, Hongsheng Chen\*, Baile Zhang\*, and Yihao Yang\*. Multiple Brillouin zone winding of topological chiral edge states for slow light applications. [*Phys. Rev. Lett.* 132, 156602 (2024)](https://doi.org/10.1103/PhysRevLett.132.156602).
