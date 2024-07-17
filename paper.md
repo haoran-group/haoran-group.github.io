@@ -7,6 +7,8 @@ title: Publication list
 
 #### 2024
 
+46\. Xinrong Xie, Gan Liang, Fei Ma, Yulin Du, Yiwei Peng, Erping Li, Hongsheng Chen, Linhu Li\*, Fei Gao\*, and Haoran Xue\*. Observation of scale-free localized states induced by non-Hermitian defects. [*Phys. Rev. B* 109, L140102 (2024)](https://doi.org/10.1103/PhysRevB.109.L140102).
+
 45\. Zheyu Cheng<sup>#</sup>, Yi-Jun Guan<sup>#</sup>, Haoran Xue\*, Yong Ge, Ding Jia, Yang Long, Shou-Qi Yuan, Hong-Xiang Sun\*, Yidong Chong\*, and Baile Zhang\*. Three-dimensional flat Landau levels in an inhomogeneous acoustic crystal. [*Nat. Commun.* 15, 2174 (2024)](https://doi.org/10.1038/s41467-024-46517-z).
 
 #### 2023
