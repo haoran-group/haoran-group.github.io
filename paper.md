@@ -7,6 +7,8 @@ title: Publication list
 
 #### 2024
 
+47\. Fujia Chen<sup>#</sup>, Haoran Xue<sup>#</sup>, Yuang Pan, Maoren Wang, Yuanhang Hu, Li Zhang, Qiaolu Chen, Song Han, Gui-geng Liu, Zhen Gao, Peiheng Zhou\*, Wenyan Yin\*, Hongsheng Chen\*, Baile Zhang\*, and Yihao Yang\*. Multiple Brillouin zone winding of topological chiral edge states for slow light applications. [*Phys. Rev. Lett.* 132, 156602 (2024)](https://doi.org/10.1103/PhysRevLett.132.156602).
+
 46\. Xinrong Xie, Gan Liang, Fei Ma, Yulin Du, Yiwei Peng, Erping Li, Hongsheng Chen, Linhu Li\*, Fei Gao\*, and Haoran Xue\*. Observation of scale-free localized states induced by non-Hermitian defects. [*Phys. Rev. B* 109, L140102 (2024)](https://doi.org/10.1103/PhysRevB.109.L140102).
 
 45\. Zheyu Cheng<sup>#</sup>, Yi-Jun Guan<sup>#</sup>, Haoran Xue\*, Yong Ge, Ding Jia, Yang Long, Shou-Qi Yuan, Hong-Xiang Sun\*, Yidong Chong\*, and Baile Zhang\*. Three-dimensional flat Landau levels in an inhomogeneous acoustic crystal. [*Nat. Commun.* 15, 2174 (2024)](https://doi.org/10.1038/s41467-024-46517-z).
