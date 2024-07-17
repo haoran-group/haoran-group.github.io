@@ -9,7 +9,9 @@ We are a research group in the Department of Physics, The Chinese University of 
 
 ### Contact
 Email: haoranxue@cuhk.edu.hk
+
 Phone: (852) 3943 4388
+
 Office: Room 206, 2/F, Science Centre North Block, Shatin, The Chinese University of Hong Kong, Hong Kong, China
 
 ### Links
