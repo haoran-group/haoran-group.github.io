@@ -30,9 +30,10 @@ title: Group members
 
 ### PhD students
 
-|<img src="https://github.com/user-attachments/assets/26473b5e-7eb9-4c65-aa0d-f3db51955640"  width="150" height="200">|
-|:--:| 
-|Xie Wentao|
+|<img src="https://github.com/user-attachments/assets/26473b5e-7eb9-4c65-aa0d-f3db51955640"  width="150" height="200">|<img src="[https://github.com/user-attachments/assets/26473b5e-7eb9-4c65-aa0d-f3db51955640](https://github.com/user-attachments/assets/66d481b1-aa63-448f-b5e4-7e54164c7dad)"  width="150" height="200">|
+|:--:|:--:| 
+|Xie Wentao|Wang Bingbing|
+
 
 
 
