@@ -11,7 +11,7 @@ title: Group members
 
 <ins>Education</ins>
 
-2017-2021: PhD (physics), Nanyang Technological University
+2017-2021: PhD (physics), Nanyang Technological University (Supervisor: [Zhang Baile](https://personal.ntu.edu.sg/blzhang/); Co-supervisor: [Chong Yidong](https://web.spms.ntu.edu.sg/~ydchong/))
 
 2012-2016: BSc (material physics), Nanjing University
 
