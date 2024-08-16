@@ -7,7 +7,7 @@ title: Publication list
 
 #### 2024
 
-55\. He Gao, Weiwei Zhu, Haoran Xue\*, Guancong Ma\*, and Zhongqing Su\*. Controlling acoustic non-Hermitian skin effect via synthetic magnetic fields. [*Appl. Phys. Rev.* 11, 031410 (2024)](https://doi.org/10.1063/5.0213867)
+55\. He Gao, Weiwei Zhu, Haoran Xue\*, Guancong Ma\*, and Zhongqing Su\*. Controlling acoustic non-Hermitian skin effect via synthetic magnetic fields. [*Appl. Phys. Rev.* 11, 031410 (2024)](https://doi.org/10.1063/5.0213867).
 
 54\. Yang Long\*, Haoran Xue, and Baile Zhang\*. Unsupervised learning of topological non-Abelian braiding in non-Hermitian bands. [*Nat. Mach. Intell.* (2024)](https://doi.org/10.1038/s42256-024-00871-1).
 
