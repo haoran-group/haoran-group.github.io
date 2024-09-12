@@ -7,6 +7,8 @@ title: Publication list
 
 #### 2024
 
+56\. Haoran Xue<sup>#,</sup>\*, Yong Ge<sup>#</sup>, Zheyu Cheng, Yi- jun Guan, Jiaojiao Zhu, Hong-yu Zou, Shou-qi Yuan, Shengyuan A. Yang, Hong- xiang Sun\*, Yidong Chong\*, and Baile Zhang\*. Three-dimensional valley-contrasting sound. [*Sci. Adv.* 10, eadp0377 (2024)](https://doi.org/10.1126/sciadv.adp0377).
+
 55\. He Gao, Weiwei Zhu, Haoran Xue\*, Guancong Ma\*, and Zhongqing Su\*. Controlling acoustic non-Hermitian skin effect via synthetic magnetic fields. [*Appl. Phys. Rev.* 11, 031410 (2024)](https://doi.org/10.1063/5.0213867).
 
 54\. Yang Long\*, Haoran Xue, and Baile Zhang\*. Unsupervised learning of topological non-Abelian braiding in non-Hermitian bands. [*Nat. Mach. Intell.* (2024)](https://doi.org/10.1038/s42256-024-00871-1).
