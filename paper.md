@@ -5,6 +5,10 @@ title: Publication list
 
 (*corresponding authors; #equal contribution)
 
+#### 2025
+
+56\. Mudi Wang\*, Ruo-Yang Zhang, Chenyu Zhang, Haoran Xue, Hongwei Jia, Jing Hu, Dongyang Wang, Tianshu Jiang, and Che Ting Chan\*. Three-dimensional nonreciprocal transport in photonic topological heterostructure of arbitrary shape. [*Sci. Adv.* 11, eadq9285 (2025)](https://doi.org/10.1126/sciadv.adq9285)
+
 #### 2024
 
 55\. Haoran Xue<sup>#,</sup>\*, Yong Ge<sup>#</sup>, Zheyu Cheng, Yi- jun Guan, Jiaojiao Zhu, Hong-yu Zou, Shou-qi Yuan, Shengyuan A. Yang, Hong- xiang Sun\*, Yidong Chong\*, and Baile Zhang\*. Three-dimensional valley-contrasting sound. [*Sci. Adv.* 10, eadp0377 (2024)](https://doi.org/10.1126/sciadv.adp0377).
