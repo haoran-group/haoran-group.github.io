@@ -7,7 +7,7 @@ title: Publication list
 
 #### 2025
 
-56\. Mudi Wang\*, Ruo-Yang Zhang, Chenyu Zhang, Haoran Xue, Hongwei Jia, Jing Hu, Dongyang Wang, Tianshu Jiang, and Che Ting Chan\*. Three-dimensional nonreciprocal transport in photonic topological heterostructure of arbitrary shape. [*Sci. Adv.* 11, eadq9285 (2025)](https://doi.org/10.1126/sciadv.adq9285)
+56\. Mudi Wang\*, Ruo-Yang Zhang, Chenyu Zhang, Haoran Xue, Hongwei Jia, Jing Hu, Dongyang Wang, Tianshu Jiang, and Che Ting Chan\*. Three-dimensional nonreciprocal transport in photonic topological heterostructure of arbitrary shape. [*Sci. Adv.* 11, eadq9285 (2025)](https://doi.org/10.1126/sciadv.adq9285).
 
 #### 2024
 
