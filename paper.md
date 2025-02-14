@@ -7,6 +7,8 @@ title: Publication list
 
 #### 2025
 
+57\. Yabin Jin, Daniel Torrent, Bahram Djafari Rouhani, Liangshu He, Yanxun Xiang, Fu-Zhen Xuan, Zhongming Gu, Haoran Xue, Jie Zhu, Qian Wu, Guoliang Huang, Pedro David García, Guillermo Arregui, Yi Chen, Sébastien Guenneau, Martin Wegener, Muamer Kadic, Yongquan Liu, Jensen Li, Yue-Sheng Wang, Antonio Palermo, V Romero-García, S Kuznetsova, É Cheron, M Lázaro Navarro, JP Groby, V Pagneux, Simon Félix, LM Garcia-Raffi, Gengkai Hu, Runcheng Cai, Timon Rabczuk, Xiaoying Zhuang, Penglin Gao, Yegao Qu, Mahmoud I Hussein, Masahiro Nomura, Yan Pennec, Feiyan Cai, Xinwei Li, Wei Zhai. The 2024 phononic crystals roadmap. [*J. Phys. D: Appl. Phys.* 58 113001 (2025)](https://doi.org/10.1088/1361-6463/ad9ab2)
+
 56\. Mudi Wang\*, Ruo-Yang Zhang, Chenyu Zhang, Haoran Xue, Hongwei Jia, Jing Hu, Dongyang Wang, Tianshu Jiang, and Che Ting Chan\*. Three-dimensional nonreciprocal transport in photonic topological heterostructure of arbitrary shape. [*Sci. Adv.* 11, eadq9285 (2025)](https://doi.org/10.1126/sciadv.adq9285).
 
 #### 2024
