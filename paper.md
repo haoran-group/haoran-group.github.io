@@ -7,6 +7,8 @@ title: Publication list
 
 #### 2025
 
+60\. Bing-Bing Wang<sup>#</sup>, Zheyu Cheng<sup>#</sup>, Hong-Yu Zou, Yong Ge, Ke-Qi Zhao, Qiao-Rui Si, Shou-Qi Yuan, Hong-Xiang Sun\*, Haoran Xue\*, and Baile Zhang\*. Observation of disorder-induced boundary localization. [*Proc. Natl. Acad. Sci. USA* 122, e2422154122 (2025)](https://doi.org/10.1073/pnas.2422154122).
+
 59\. Gang Jiang, Siyuan Zhang, Weiwei Zhu\*, Y. X. Zhao, and Haoran Xue\*. Topological π/2 modes in photonic waveguide arrays. [*Phys. Rev. A* 111, 043527 (2025)](https://doi.org/10.1103/PhysRevA.111.043527).
 
 58\. Xinrong Xie<sup>#</sup>, Fei Ma<sup>#</sup>, W. B. Rui, Zhaozhen Dong, Yulin Du, Wentao Xie, Y. X. Zhao, Hongsheng Chen, Fei Gao\*, and Haoran Xue\*. Non-Hermitian Dirac cones with valley-dependent lifetimes. [*Nat. Commun.* 16, 1627 (2025)](https://doi.org/10.1038/s41467-025-56882-y).
