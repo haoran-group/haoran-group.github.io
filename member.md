@@ -23,9 +23,9 @@ title: Group members
 
 ### Postdoctoral researchers
 
-|<img src="https://github.com/user-attachments/assets/50ac0715-d213-4428-8651-59aa2bce4362"  width="150" height="200">|
-|:--:| 
-|Shen Ruichang <br> PhD: Zhejiang Univ.|
+|<img src="https://github.com/user-attachments/assets/50ac0715-d213-4428-8651-59aa2bce4362"  width="150" height="200">|<img src="https://github.com/user-attachments/assets/af4e5c27-8c17-428c-94b6-a561845b75ff"  width="150" height="200">|
+|:--:|:--:|
+|Shen Ruichang <br> PhD: Zhejiang Univ.|Chen Jiangzhi <br> PhD: Tongji Univ.|
 
 ### PhD students
 
