@@ -7,6 +7,8 @@ title: Publication list
 
 #### 2025
 
+61\. Wenhao Li, Qiaolu Chen, Ning Han, Xinrui Li, Fujia Chen, Junyao Wu, Yuang Pan, Yudong Ren, Hongsheng Chen\*, Haoran Xue\*, and Yihao Yang\*. Three-dimensional topological valley photonics. [*Phys. Rev. Lett.* 135, 126601 (2025)](https://doi.org/10.1103/kmsq-llfk).
+
 60\. Bing-Bing Wang<sup>#</sup>, Zheyu Cheng<sup>#</sup>, Hong-Yu Zou, Yong Ge, Ke-Qi Zhao, Qiao-Rui Si, Shou-Qi Yuan, Hong-Xiang Sun\*, Haoran Xue\*, and Baile Zhang\*. Observation of disorder-induced boundary localization. [*Proc. Natl. Acad. Sci. USA* 122, e2422154122 (2025)](https://doi.org/10.1073/pnas.2422154122).
 
 59\. Gang Jiang, Siyuan Zhang, Weiwei Zhu\*, Y. X. Zhao, and Haoran Xue\*. Topological π/2 modes in photonic waveguide arrays. [*Phys. Rev. A* 111, 043527 (2025)](https://doi.org/10.1103/PhysRevA.111.043527).
