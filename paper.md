@@ -7,63 +7,61 @@ title: Publication list
 
 #### 2025
 
-62\. Hau Tian Teo, Yang Long\*, Hong-yu Zou, Kailin Song, Haoran Xue, Yong Ge, Shou-qi Yuan, Hong-xiang Sun\*, and Baile Zhang\*. Observation of embedded topology in a trivial bulk via projective crystal symmetry. [*Phys. Rev. Lett.* 135, 136602 (2025)](https://doi.org/10.1103/9tq1-37j1).
+61\. Hau Tian Teo, Yang Long\*, Hong-yu Zou, Kailin Song, Haoran Xue, Yong Ge, Shou-qi Yuan, Hong-xiang Sun\*, and Baile Zhang\*. Observation of embedded topology in a trivial bulk via projective crystal symmetry. [*Phys. Rev. Lett.* 135, 136602 (2025)](https://doi.org/10.1103/9tq1-37j1).
 
-61\. Wenhao Li, Qiaolu Chen, Ning Han, Xinrui Li, Fujia Chen, Junyao Wu, Yuang Pan, Yudong Ren, Hongsheng Chen\*, Haoran Xue\*, and Yihao Yang\*. Three-dimensional topological valley photonics. [*Phys. Rev. Lett.* 135, 126601 (2025)](https://doi.org/10.1103/kmsq-llfk).
+60\. Wenhao Li, Qiaolu Chen, Ning Han, Xinrui Li, Fujia Chen, Junyao Wu, Yuang Pan, Yudong Ren, Hongsheng Chen\*, Haoran Xue\*, and Yihao Yang\*. Three-dimensional topological valley photonics. [*Phys. Rev. Lett.* 135, 126601 (2025)](https://doi.org/10.1103/kmsq-llfk).
 
-60\. Bing-Bing Wang<sup>#</sup>, Zheyu Cheng<sup>#</sup>, Hong-Yu Zou, Yong Ge, Ke-Qi Zhao, Qiao-Rui Si, Shou-Qi Yuan, Hong-Xiang Sun\*, Haoran Xue\*, and Baile Zhang\*. Observation of disorder-induced boundary localization. [*Proc. Natl. Acad. Sci. USA* 122, e2422154122 (2025)](https://doi.org/10.1073/pnas.2422154122).
+59\. Bing-Bing Wang<sup>#</sup>, Zheyu Cheng<sup>#</sup>, Hong-Yu Zou, Yong Ge, Ke-Qi Zhao, Qiao-Rui Si, Shou-Qi Yuan, Hong-Xiang Sun\*, Haoran Xue\*, and Baile Zhang\*. Observation of disorder-induced boundary localization. [*Proc. Natl. Acad. Sci. USA* 122, e2422154122 (2025)](https://doi.org/10.1073/pnas.2422154122).
 
-59\. Gang Jiang, Siyuan Zhang, Weiwei Zhu\*, Y. X. Zhao, and Haoran Xue\*. Topological π/2 modes in photonic waveguide arrays. [*Phys. Rev. A* 111, 043527 (2025)](https://doi.org/10.1103/PhysRevA.111.043527).
+58\. Gang Jiang, Siyuan Zhang, Weiwei Zhu\*, Y. X. Zhao, and Haoran Xue\*. Topological π/2 modes in photonic waveguide arrays. [*Phys. Rev. A* 111, 043527 (2025)](https://doi.org/10.1103/PhysRevA.111.043527).
 
-58\. Xinrong Xie<sup>#</sup>, Fei Ma<sup>#</sup>, W. B. Rui, Zhaozhen Dong, Yulin Du, Wentao Xie, Y. X. Zhao, Hongsheng Chen, Fei Gao\*, and Haoran Xue\*. Non-Hermitian Dirac cones with valley-dependent lifetimes. [*Nat. Commun.* 16, 1627 (2025)](https://doi.org/10.1038/s41467-025-56882-y).
+57\. Xinrong Xie<sup>#</sup>, Fei Ma<sup>#</sup>, W. B. Rui, Zhaozhen Dong, Yulin Du, Wentao Xie, Y. X. Zhao, Hongsheng Chen, Fei Gao\*, and Haoran Xue\*. Non-Hermitian Dirac cones with valley-dependent lifetimes. [*Nat. Commun.* 16, 1627 (2025)](https://doi.org/10.1038/s41467-025-56882-y).
 
-57\. Yabin Jin, Daniel Torrent, Bahram Djafari Rouhani, Liangshu He, Yanxun Xiang, Fu-Zhen Xuan, Zhongming Gu, Haoran Xue, Jie Zhu, Qian Wu, Guoliang Huang, Pedro David García, Guillermo Arregui, Yi Chen, Sébastien Guenneau, Martin Wegener, Muamer Kadic, Yongquan Liu, Jensen Li, Yue-Sheng Wang, Antonio Palermo, V Romero-García, S Kuznetsova, É Cheron, M Lázaro Navarro, JP Groby, V Pagneux, Simon Félix, LM Garcia-Raffi, Gengkai Hu, Runcheng Cai, Timon Rabczuk, Xiaoying Zhuang, Penglin Gao, Yegao Qu, Mahmoud I Hussein, Masahiro Nomura, Yan Pennec, Feiyan Cai, Xinwei Li, and Wei Zhai. The 2024 phononic crystals roadmap. [*J. Phys. D: Appl. Phys.* 58 113001 (2025)](https://doi.org/10.1088/1361-6463/ad9ab2)
+56\. Yabin Jin, Daniel Torrent, Bahram Djafari Rouhani, Liangshu He, Yanxun Xiang, Fu-Zhen Xuan, Zhongming Gu, Haoran Xue, Jie Zhu, Qian Wu, Guoliang Huang, Pedro David García, Guillermo Arregui, Yi Chen, Sébastien Guenneau, Martin Wegener, Muamer Kadic, Yongquan Liu, Jensen Li, Yue-Sheng Wang, Antonio Palermo, V Romero-García, S Kuznetsova, É Cheron, M Lázaro Navarro, JP Groby, V Pagneux, Simon Félix, LM Garcia-Raffi, Gengkai Hu, Runcheng Cai, Timon Rabczuk, Xiaoying Zhuang, Penglin Gao, Yegao Qu, Mahmoud I Hussein, Masahiro Nomura, Yan Pennec, Feiyan Cai, Xinwei Li, and Wei Zhai. The 2024 phononic crystals roadmap. [*J. Phys. D: Appl. Phys.* 58 113001 (2025)](https://doi.org/10.1088/1361-6463/ad9ab2)
 
-56\. Mudi Wang\*, Ruo-Yang Zhang, Chenyu Zhang, Haoran Xue, Hongwei Jia, Jing Hu, Dongyang Wang, Tianshu Jiang, and Che Ting Chan\*. Three-dimensional nonreciprocal transport in photonic topological heterostructure of arbitrary shape. [*Sci. Adv.* 11, eadq9285 (2025)](https://doi.org/10.1126/sciadv.adq9285).
+55\. Mudi Wang\*, Ruo-Yang Zhang, Chenyu Zhang, Haoran Xue, Hongwei Jia, Jing Hu, Dongyang Wang, Tianshu Jiang, and Che Ting Chan\*. Three-dimensional nonreciprocal transport in photonic topological heterostructure of arbitrary shape. [*Sci. Adv.* 11, eadq9285 (2025)](https://doi.org/10.1126/sciadv.adq9285).
 
 #### 2024
 
-55\. Haoran Xue<sup>#,</sup>\*, Yong Ge<sup>#</sup>, Zheyu Cheng, Yi- jun Guan, Jiaojiao Zhu, Hong-yu Zou, Shou-qi Yuan, Shengyuan A. Yang, Hong- xiang Sun\*, Yidong Chong\*, and Baile Zhang\*. Three-dimensional valley-contrasting sound. [*Sci. Adv.* 10, eadp0377 (2024)](https://doi.org/10.1126/sciadv.adp0377).
+54\. Haoran Xue<sup>#,</sup>\*, Yong Ge<sup>#</sup>, Zheyu Cheng, Yi- jun Guan, Jiaojiao Zhu, Hong-yu Zou, Shou-qi Yuan, Shengyuan A. Yang, Hong- xiang Sun\*, Yidong Chong\*, and Baile Zhang\*. Three-dimensional valley-contrasting sound. [*Sci. Adv.* 10, eadp0377 (2024)](https://doi.org/10.1126/sciadv.adp0377).
 
-54\. Yang Long\*, Haoran Xue, and Baile Zhang\*. Unsupervised learning of topological non-Abelian braiding in non-Hermitian bands. [*Nat. Mach. Intell.* 6, 904 (2024)](https://doi.org/10.1038/s42256-024-00871-1).
+53\. Yang Long\*, Haoran Xue, and Baile Zhang\*. Unsupervised learning of topological non-Abelian braiding in non-Hermitian bands. [*Nat. Mach. Intell.* 6, 904 (2024)](https://doi.org/10.1038/s42256-024-00871-1).
 
-53\. Letian Yu<sup>#</sup>, Haoran Xue<sup>#</sup>, Ruixiang Guo, Eng Aik Chan, Yun Yong Terh, Cesare Soci\*, Baile Zhang\*, and Y. D. Chong\*. Dirac mass induced by optical gain and loss. [*Nature* 632, 63 (2024)](https://doi.org/10.1038/s41586-024-07664-x).
+52\. Letian Yu<sup>#</sup>, Haoran Xue<sup>#</sup>, Ruixiang Guo, Eng Aik Chan, Yun Yong Terh, Cesare Soci\*, Baile Zhang\*, and Y. D. Chong\*. Dirac mass induced by optical gain and loss. [*Nature* 632, 63 (2024)](https://doi.org/10.1038/s41586-024-07664-x).
 
-52\. He Gao, Weiwei Zhu, Haoran Xue\*, Guancong Ma\*, and Zhongqing Su\*. Controlling acoustic non-Hermitian skin effect via synthetic magnetic fields. [*Appl. Phys. Rev.* 11, 031410 (2024)](https://doi.org/10.1063/5.0213867).
+51\. He Gao, Weiwei Zhu, Haoran Xue\*, Guancong Ma\*, and Zhongqing Su\*. Controlling acoustic non-Hermitian skin effect via synthetic magnetic fields. [*Appl. Phys. Rev.* 11, 031410 (2024)](https://doi.org/10.1063/5.0213867).
 
-51\. Yang Long<sup>#</sup>, Zihao Wang<sup>#</sup>, Chen Zhang, Haoran Xue, Y. X. Zhao\*, and Baile Zhang\*. Non-Abelian braiding of topological edge bands. [*Phys. Rev. Lett.* 132, 236401 (2024)](https://doi.org/10.1103/PhysRevLett.132.236401).
+50\. Yang Long<sup>#</sup>, Zihao Wang<sup>#</sup>, Chen Zhang, Haoran Xue, Y. X. Zhao\*, and Baile Zhang\*. Non-Abelian braiding of topological edge bands. [*Phys. Rev. Lett.* 132, 236401 (2024)](https://doi.org/10.1103/PhysRevLett.132.236401).
 
-50\. Wentao Xie, Qiang Wang\*, and Haoran Xue\*. Topological disclination mode in photonic Chern insulators. [*Opt. Mater. Express* 14, 1572 (2024)](https://doi.org/10.1364/OME.525214).
+49\. Wentao Xie, Qiang Wang\*, and Haoran Xue\*. Topological disclination mode in photonic Chern insulators. [*Opt. Mater. Express* 14, 1572 (2024)](https://doi.org/10.1364/OME.525214).
 
-49\. Yin Wang, Yong Ge, Yu-Jing Lu, Shuai Gu, Yi-Jun Guan, Qiao-Rui Si, Shou-Qi Yuan, Qiang Wang\*, Hong-Xiang Sun\*, and Haoran Xue\*. Free-form acoustic topological waveguides enabled by topological lattice defects. [*Phys. Rev. B* 109, L180101 (2024)](https://doi.org/10.1103/PhysRevB.109.L180101).
+48\. Yin Wang, Yong Ge, Yu-Jing Lu, Shuai Gu, Yi-Jun Guan, Qiao-Rui Si, Shou-Qi Yuan, Qiang Wang\*, Hong-Xiang Sun\*, and Haoran Xue\*. Free-form acoustic topological waveguides enabled by topological lattice defects. [*Phys. Rev. B* 109, L180101 (2024)](https://doi.org/10.1103/PhysRevB.109.L180101).
 
-48\. Hau Tian Teo, Subhaskar Mandal, Yang Long, Haoran Xue\*, and Baile Zhang\*. Pseudomagnetic suppression of non-Hermitian skin effect. [*Sci. Bull.* 69, 1667 (2024)](https://doi.org/10.1016/j.scib.2024.04.023).
+47\. Hau Tian Teo, Subhaskar Mandal, Yang Long, Haoran Xue\*, and Baile Zhang\*. Pseudomagnetic suppression of non-Hermitian skin effect. [*Sci. Bull.* 69, 1667 (2024)](https://doi.org/10.1016/j.scib.2024.04.023).
 
-47\. Fujia Chen<sup>#</sup>, Haoran Xue<sup>#</sup>, Yuang Pan, Maoren Wang, Yuanhang Hu, Li Zhang, Qiaolu Chen, Song Han, Gui-geng Liu, Zhen Gao, Peiheng Zhou\*, Wenyan Yin\*, Hongsheng Chen\*, Baile Zhang\*, and Yihao Yang\*. Multiple Brillouin zone winding of topological chiral edge states for slow light applications. [*Phys. Rev. Lett.* 132, 156602 (2024)](https://doi.org/10.1103/PhysRevLett.132.156602).
+46\. Fujia Chen<sup>#</sup>, Haoran Xue<sup>#</sup>, Yuang Pan, Maoren Wang, Yuanhang Hu, Li Zhang, Qiaolu Chen, Song Han, Gui-geng Liu, Zhen Gao, Peiheng Zhou\*, Wenyan Yin\*, Hongsheng Chen\*, Baile Zhang\*, and Yihao Yang\*. Multiple Brillouin zone winding of topological chiral edge states for slow light applications. [*Phys. Rev. Lett.* 132, 156602 (2024)](https://doi.org/10.1103/PhysRevLett.132.156602).
 
-46\. Xinrong Xie, Gan Liang, Fei Ma, Yulin Du, Yiwei Peng, Erping Li, Hongsheng Chen, Linhu Li\*, Fei Gao\*, and Haoran Xue\*. Observation of scale-free localized states induced by non-Hermitian defects. [*Phys. Rev. B* 109, L140102 (2024)](https://doi.org/10.1103/PhysRevB.109.L140102).
+45\. Xinrong Xie, Gan Liang, Fei Ma, Yulin Du, Yiwei Peng, Erping Li, Hongsheng Chen, Linhu Li\*, Fei Gao\*, and Haoran Xue\*. Observation of scale-free localized states induced by non-Hermitian defects. [*Phys. Rev. B* 109, L140102 (2024)](https://doi.org/10.1103/PhysRevB.109.L140102).
 
-45\. Zheyu Cheng<sup>#</sup>, Yi-Jun Guan<sup>#</sup>, Haoran Xue\*, Yong Ge, Ding Jia, Yang Long, Shou-Qi Yuan, Hong-Xiang Sun\*, Yidong Chong\*, and Baile Zhang\*. Three-dimensional flat Landau levels in an inhomogeneous acoustic crystal. [*Nat. Commun.* 15, 2174 (2024)](https://doi.org/10.1038/s41467-024-46517-z).
+44\. Zheyu Cheng<sup>#</sup>, Yi-Jun Guan<sup>#</sup>, Haoran Xue\*, Yong Ge, Ding Jia, Yang Long, Shou-Qi Yuan, Hong-Xiang Sun\*, Yidong Chong\*, and Baile Zhang\*. Three-dimensional flat Landau levels in an inhomogeneous acoustic crystal. [*Nat. Commun.* 15, 2174 (2024)](https://doi.org/10.1038/s41467-024-46517-z).
 
 #### 2023
 
-44\. Yong Ge, Binjie Shi, Ding Jia, Hong-xiang Sun\*, Haoran Xue\*, Shou-qi Yuan\*, and Baile Zhang\*. Tunable bifunctional acoustic logic gates based on topological valley transport. [*Appl. Phys. Lett.* 123, 171703 (2023)](https://doi.org/10.1063/5.0172277).
+43\. Yong Ge, Binjie Shi, Ding Jia, Hong-xiang Sun\*, Haoran Xue\*, Shou-qi Yuan\*, and Baile Zhang\*. Tunable bifunctional acoustic logic gates based on topological valley transport. [*Appl. Phys. Lett.* 123, 171703 (2023)](https://doi.org/10.1063/5.0172277).
     
-43\. Haoran Xue, Z. Y. Chen, Zheyu Cheng, J. X. Dai, Yang Long, Y. X. Zhao\*, and Baile Zhang\*. Stiefel-Whitney topological charges in a three-dimensional acoustic nodal-line crystal. [*Nat. Commun.* 14, 4563 (2023)](https://doi.org/10.1038/s41467-023-40252-7).
+42\. Haoran Xue, Z. Y. Chen, Zheyu Cheng, J. X. Dai, Yang Long, Y. X. Zhao\*, and Baile Zhang\*. Stiefel-Whitney topological charges in a three-dimensional acoustic nodal-line crystal. [*Nat. Commun.* 14, 4563 (2023)](https://doi.org/10.1038/s41467-023-40252-7).
     
-42\. Zhongming Gu<sup>#</sup>, He Gao<sup>#</sup>, Haoran Xue\*, Di Wang, Jiamin Guo, Zhongqing Su, Baile Zhang\*, and Jie Zhu\*. Observation of an acoustic non-Hermitian topological Anderson insulator. [*Sci. China Phys. Mech. Astron.* 66, 294311 (2023)](https://doi.org/10.1007/s11433-023-2159-4).
+41\. Zhongming Gu<sup>#</sup>, He Gao<sup>#</sup>, Haoran Xue\*, Di Wang, Jiamin Guo, Zhongqing Su, Baile Zhang\*, and Jie Zhu\*. Observation of an acoustic non-Hermitian topological Anderson insulator. [*Sci. China Phys. Mech. Astron.* 66, 294311 (2023)](https://doi.org/10.1007/s11433-023-2159-4).
     
-41\. Yong Ge, Bin-jie Shi, Jian-ping Xia, Hong-xiang Sun\*, Shou-qi Yuan*, Haoran Xue\*, and Baile Zhang\*. Programmable dual-band acoustic topological insulator with dynamically movable interface states. [*Appl. Phys. Rev.* 10, 031403 (2023)](https://doi.org/10.1063/5.0137946).
+40\. Yong Ge, Bin-jie Shi, Jian-ping Xia, Hong-xiang Sun\*, Shou-qi Yuan*, Haoran Xue\*, and Baile Zhang\*. Programmable dual-band acoustic topological insulator with dynamically movable interface states. [*Appl. Phys. Rev.* 10, 031403 (2023)](https://doi.org/10.1063/5.0137946).
 
-40\. Zhi-Kang Lin, Qiang Wang, Yang Liu, Haoran Xue, Baile Zhang\*, Yidong Chong\*, and Jian-Hua Jiang\*. Topological phenomena at defects in acoustic, photonic and solid-state lattices. [*Nat. Rev. Phys.* 5, 483 (2023)](https://doi.org/10.1038/s42254-023-00602-2).
+39\. Zhi-Kang Lin, Qiang Wang, Yang Liu, Haoran Xue, Baile Zhang\*, Yidong Chong\*, and Jian-Hua Jiang\*. Topological phenomena at defects in acoustic, photonic and solid-state lattices. [*Nat. Rev. Phys.* 5, 483 (2023)](https://doi.org/10.1038/s42254-023-00602-2).
 
-39\.	Yun Yong Terh<sup>#</sup>, Rimi Banerjee<sup>#</sup>, Haoran Xue, and Yidong Chong\*. Scattering dynamics and boundary states of a non-Hermitian Dirac equation. [*Phys. Rev. B* 108, 045419 (2023)](https://doi.org/10.1103/PhysRevB.108.045419).
+38\.	Yun Yong Terh<sup>#</sup>, Rimi Banerjee<sup>#</sup>, Haoran Xue, and Yidong Chong\*. Scattering dynamics and boundary states of a non-Hermitian Dirac equation. [*Phys. Rev. B* 108, 045419 (2023)](https://doi.org/10.1103/PhysRevB.108.045419).
 
-38\.	Yuanzhen Li, Su Xu\*, Zijian Zhang, Yumeng Yang, Xinrong Xie, Wenzheng Ye, Feng Liu, Haoran Xue\*, Liqiao Jing, Zuojia Wang, Qi-Dai Chen, Hong-Bo Sun, Erping Li, Hongsheng Chen\*, and Fei Gao\*. Polarization-orthogonal nondegenerate plasmonic higher-order topological states. [*Phys. Rev. Lett.* 130, 213603 (2023)](https://doi.org/10.1103/PhysRevLett.130.213603).
+37\.	Yuanzhen Li, Su Xu\*, Zijian Zhang, Yumeng Yang, Xinrong Xie, Wenzheng Ye, Feng Liu, Haoran Xue\*, Liqiao Jing, Zuojia Wang, Qi-Dai Chen, Hong-Bo Sun, Erping Li, Hongsheng Chen\*, and Fei Gao\*. Polarization-orthogonal nondegenerate plasmonic higher-order topological states. [*Phys. Rev. Lett.* 130, 213603 (2023)](https://doi.org/10.1103/PhysRevLett.130.213603).
 
-37\.	Dongjue Liu<sup>#</sup>, Zihao Wang<sup>#</sup>, Zheyu Cheng, Hao Hu, Qijie Wang, Haoran Xue\*, Baile Zhang\*, and Yu Luo\*. Simultaneous manipulation of line-gap and point-gap topologies in non-Hermitian lattices. [*Laser Photon. Rev.* 17, 2200371 (2023)](https://doi.org/10.1002/lpor.202200371).
-
-36\.	Zhiwei Guo\*, Haoran Xue\*, Yang Long\*, Chengzhi Qin\*, and Liang Jin\*. Non-Hermitian and topological photonics. [*Front. Phys.* 11, 1177898 (2023)](https://doi.org/10.3389/fphy.2023.1177898).
+36\.	Dongjue Liu<sup>#</sup>, Zihao Wang<sup>#</sup>, Zheyu Cheng, Hao Hu, Qijie Wang, Haoran Xue\*, Baile Zhang\*, and Yu Luo\*. Simultaneous manipulation of line-gap and point-gap topologies in non-Hermitian lattices. [*Laser Photon. Rev.* 17, 2200371 (2023)](https://doi.org/10.1002/lpor.202200371).
 
 35\.	Qiang Wang, Changyan Zhu, Xu Zheng, Haoran Xue, Baile Zhang\*, and Yidong Chong\*. Continuum of bound states in a non-Hermitian Model. [*Phys. Rev. Lett.* 130, 103602 (2023)](https://doi.org/10.1103/PhysRevLett.130.103602).
 
