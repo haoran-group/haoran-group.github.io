@@ -7,6 +7,8 @@ title: Publication list
 
 #### 2025
 
+62\. Zheyu Cheng, Sijie Yue, Yang Long, Wentao Xie, Zixuan Yu, Hau Tian Teo, Y. X. Zhao\*, Haoran Xue\*, and Baile Zhang\*. Observation of returning Thouless pumping. [*Nat. Commun.* 16, 9669 (2025)](https://doi.org/10.1038/s41467-025-64671-w).
+
 61\. Hau Tian Teo, Yang Long\*, Hong-yu Zou, Kailin Song, Haoran Xue, Yong Ge, Shou-qi Yuan, Hong-xiang Sun\*, and Baile Zhang\*. Observation of embedded topology in a trivial bulk via projective crystal symmetry. [*Phys. Rev. Lett.* 135, 136602 (2025)](https://doi.org/10.1103/9tq1-37j1).
 
 60\. Wenhao Li, Qiaolu Chen, Ning Han, Xinrui Li, Fujia Chen, Junyao Wu, Yuang Pan, Yudong Ren, Hongsheng Chen\*, Haoran Xue\*, and Yihao Yang\*. Three-dimensional topological valley photonics. [*Phys. Rev. Lett.* 135, 126601 (2025)](https://doi.org/10.1103/kmsq-llfk).
