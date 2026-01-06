@@ -5,6 +5,10 @@ title: Publication list
 
 (*corresponding authors; #equal contribution)
 
+#### 2026
+
+64\. Daniel Leykam, Haoran Xue, Baile Zhang\*, and Yidong Chong\*. Limitations and possibilities of topological photonics. [*Nat. Rev. Phys.* 8, 55 (2026)](https://doi.org/10.1038/s42254-025-00889-3).
+
 #### 2025
 
 63\. Bofeng Zhu<sup>#</sup>, Kevin Hean<sup>#</sup>, Stephan Wong, Yuxi Wang, Rimi Banerjee, Haoran Xue, Qiang Wang, Alexander Cerjan, Qi Jie Wang\*, Wonkeun Chan\*, and Yidong Chong\*. Topological photonic crystal fiber. [*Sci. Adv.* 11, eady1476 (2025)](https://doi.org/10.1126/sciadv.ady1476).
