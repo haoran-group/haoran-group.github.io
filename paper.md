@@ -3,7 +3,7 @@ layout: page
 title: Publication list
 ---
 
-(*corresponding authors; #equal contribution)
+(*corresponding authors; <sup>#</sup>equal contribution)
 
 #### 2026
 
