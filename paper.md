@@ -7,6 +7,8 @@ title: Publication list
 
 #### 2026
 
+66\. Tuo Wan<sup>#</sup>, Shuming Zhang<sup>#</sup>, Xiangrui Hou, Fangyu Wang, Haoran Xue, and Zhaoju Yang\*. Parity‐time‐symmetric bimorphic topological insulators. [*Adv. Mater.* 38, e19324 (2026)](https://doi.org/10.1002/adma.202519324).
+
 65\. Yang Long\*, Haoran Xue, and Baile Zhang\*. Unsupervised classification of non-Hermitian topological phases under symmetries. [*Natl. Sci. Rev.* 13, nwaf536 (2026)](https://doi.org/10.1093/nsr/nwaf536).
 
 64\. Daniel Leykam, Haoran Xue, Baile Zhang\*, and Yidong Chong\*. Limitations and possibilities of topological photonics. [*Nat. Rev. Phys.* 8, 55 (2026)](https://doi.org/10.1038/s42254-025-00889-3).
