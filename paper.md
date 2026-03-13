@@ -7,9 +7,9 @@ title: Publication list
 
 #### 2026
 
-67\. Hong-Yu Zou<sup>#</sup>, Bing-Bing Wang<sup>#</sup>, Yong Ge, Ke-Qi Zhao, Yu-Qi Chen, Hong-Xiang Sun\*, Shou-Qi Yuan\*, Haoran Xue\*, and Baile Zhang\*. Parity‐time‐symmetric bimorphic topological insulators. [*Adv. Mater.* 38, e15529 (2026)](https://doi.org/10.1002/adma.202515529).
+67\. Hong-Yu Zou<sup>#</sup>, Bing-Bing Wang<sup>#</sup>, Yong Ge, Ke-Qi Zhao, Yu-Qi Chen, Hong-Xiang Sun\*, Shou-Qi Yuan\*, Haoran Xue\*, and Baile Zhang\*. Non-Hermitian edge burst of sound. [*Adv. Mater.* 38, e15529 (2026)](https://doi.org/10.1002/adma.202515529).
 
-66\. Tuo Wan<sup>#</sup>, Shuming Zhang<sup>#</sup>, Xiangrui Hou, Fangyu Wang, Haoran Xue, and Zhaoju Yang\*. Non-Hermitian edge burst of sound. [*Adv. Mater.* 38, e19324 (2026)](https://doi.org/10.1002/adma.202519324).
+66\. Tuo Wan<sup>#</sup>, Shuming Zhang<sup>#</sup>, Xiangrui Hou, Fangyu Wang, Haoran Xue, and Zhaoju Yang\*. Parity‐time‐symmetric bimorphic topological insulators. [*Adv. Mater.* 38, e19324 (2026)](https://doi.org/10.1002/adma.202519324).
 
 65\. Yang Long\*, Haoran Xue, and Baile Zhang\*. Unsupervised classification of non-Hermitian topological phases under symmetries. [*Natl. Sci. Rev.* 13, nwaf536 (2026)](https://doi.org/10.1093/nsr/nwaf536).
 
