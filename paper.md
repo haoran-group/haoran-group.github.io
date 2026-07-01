@@ -7,6 +7,8 @@ title: Publication list
 
 #### 2026
 
+69\. He Gao<sup>#</sup>, Jiamin Guo<sup>#</sup>, Yinjie Su, Zhongming Gu\*, Haoran Xue\*, and Jie Zhu\*. Realization of dissipation-enhanced topological valley transport in phononic crystal. [*Phys. Rev. Lett.* 137, 016301 (2026)](https://doi.org/10.1103/pjlr-6t6w).
+
 68\. Weiwei Zhu<sup>#</sup>, Hong-yu Zou<sup>#</sup>, Yong Ge, Yin Wang, Zheyu Cheng, Bing-bing Wang, Shou-qi Yuan, Hong-xiang Sun\*, Haoran Xue\*, and Baile Zhang\*. Flatbands from bound states in the continuum for orbital angular momentum localization. [*Nat. Commun.* 17, 3065 (2026)](https://doi.org/10.1038/s41467-026-69669-6).
 
 67\. Hong-Yu Zou<sup>#</sup>, Bing-Bing Wang<sup>#</sup>, Yong Ge, Ke-Qi Zhao, Yu-Qi Chen, Hong-Xiang Sun\*, Shou-Qi Yuan\*, Haoran Xue\*, and Baile Zhang\*. Non-Hermitian edge burst of sound. [*Adv. Mater.* 38, e15529 (2026)](https://doi.org/10.1002/adma.202515529).
