@@ -7,6 +7,8 @@ title: Publication list
 
 #### 2026
 
+70\. Ding Jia<sup>#</sup>, Shuai Gu<sup>#</sup>, Yin Wang, Longxu Wang, Haoran Xue\*, and Hong-Xiang Sun\*. Observation of twofold degenerate acoustic Landau levels and pseudospin-dependent transport. [*Phys. Rev. B* 114, 034112 (2026)](https://doi.org/10.1103/jtz4-yyng).
+
 69\. He Gao<sup>#</sup>, Jiamin Guo<sup>#</sup>, Yinjie Su, Zhongming Gu\*, Haoran Xue\*, and Jie Zhu\*. Realization of dissipation-enhanced topological valley transport in phononic crystal. [*Phys. Rev. Lett.* 137, 016301 (2026)](https://doi.org/10.1103/pjlr-6t6w).
 
 68\. Weiwei Zhu<sup>#</sup>, Hong-yu Zou<sup>#</sup>, Yong Ge, Yin Wang, Zheyu Cheng, Bing-bing Wang, Shou-qi Yuan, Hong-xiang Sun\*, Haoran Xue\*, and Baile Zhang\*. Flatbands from bound states in the continuum for orbital angular momentum localization. [*Nat. Commun.* 17, 3065 (2026)](https://doi.org/10.1038/s41467-026-69669-6).
