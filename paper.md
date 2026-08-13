@@ -7,6 +7,8 @@ title: Publication list
 
 #### 2026
 
+72\. Sijie Yue<sup>#</sup>, Wentao Xie<sup>#</sup>, Kai Shao<sup>#</sup>, Hong-yu Zou, Bingbing Wang, Hong-xiang Sun\*, Y. X. Zhao, Wei Chen\*, and Haoran Xue\*. Universal valley filtering via uniform dissipation and velocity contrast. [*Phys. Rev. Lett.* 137, 076302 (2026)](https://doi.org/10.1103/tppy-pdds).
+
 71\. Junyao Wu<sup>#</sup>, Rui-Chang Shen<sup>#</sup>, Li Zhang, Fujia Chen, Bingbing Wang, Hongsheng Chen, Yihao Yang\*, and Haoran Xue\*. Observation of localization reversal and harmonic generation in nonlinear non-Hermitian skin effect. [*Nat. Commun.* 17, 8028 (2026)](https://doi.org/10.1038/s41467-026-74610-y).
 
 70\. Ding Jia<sup>#</sup>, Shuai Gu<sup>#</sup>, Yin Wang, Longxu Wang, Haoran Xue\*, and Hong-Xiang Sun\*. Observation of twofold degenerate acoustic Landau levels and pseudospin-dependent transport. [*Phys. Rev. B* 114, 034112 (2026)](https://doi.org/10.1103/jtz4-yyng).
