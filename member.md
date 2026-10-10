@@ -23,9 +23,9 @@ title: Group members
 
 ### Postdoctoral researchers
 
-|<img src="https://github.com/user-attachments/assets/50ac0715-d213-4428-8651-59aa2bce4362"  width="150" height="200">|<img src="https://github.com/user-attachments/assets/af4e5c27-8c17-428c-94b6-a561845b75ff"  width="150" height="200">|<img src="https://github.com/user-attachments/assets/24c86e74-5953-44e1-960c-9a0fa89aed22" width="150" height="200">|
-|:--:|:--:|:--:|
-|Shen Ruichang <br> PhD: Zhejiang Univ.|Chen Jiangzhi <br> PhD: Tongji Univ.|Liu Tingzhi <br> PhD: Wuhan Univ.|
+|<img src="https://github.com/user-attachments/assets/50ac0715-d213-4428-8651-59aa2bce4362"  width="150" height="200">|<img src="https://github.com/user-attachments/assets/af4e5c27-8c17-428c-94b6-a561845b75ff"  width="150" height="200">|<img src="https://github.com/user-attachments/assets/24c86e74-5953-44e1-960c-9a0fa89aed22" width="150" height="200">|<img src="https://github.com/user-attachments/assets/a8d33038-844b-4d68-a70c-386c28945c3d" width="150" height="200">|<img src="https://github.com/user-attachments/assets/c8a6f330-cb25-4064-9d2f-c1a94abcccc7" width="150" height="200">|
+|:--:|:--:|:--:|:--:|:--:|
+|Shen Ruichang <br> PhD: Zhejiang Univ.|Chen Jiangzhi <br> PhD: Tongji Univ.|Liu Tingzhi <br> PhD: Wuhan Univ.|Fang Liang <br> PhD: Wuhan Univ.|Xiao Wanyue <br> PhD: City Univ. of Hong Kong|
 
 ### PhD students
 
